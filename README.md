@@ -49,6 +49,7 @@ CRM Data Integration (Opportunity, pipeline, and revenue metrics)
 End-to-end analytics on performance trends
 
 
+![](/Images/Star%20Scheam%20%26%20Dax%20Measures.png)
 ![](/Images/Main%20Dashboard.png)
 ![](/Images/Sales%20Performance.png)
 ![](Images/ToolTip.png)
